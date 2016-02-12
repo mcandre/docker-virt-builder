@@ -39,6 +39,7 @@ ubuntu-14.04             x86_64     Ubuntu 14.04 (Trusty)
 ## Optional
 
 * [make](http://www.gnu.org/software/make/)
+* [Node.js](https://nodejs.org/en/) (for dockerlint)
 
 ## Debian/Ubuntu
 
